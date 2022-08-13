@@ -1,0 +1,17 @@
+{
+  "name": "test-moleculer-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gateway.service.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "moleculer": "^0.14.21",
+    "moleculer-web": "^0.10.4"
+  }
+}
